@@ -1,0 +1,93 @@
+body{margin: 5%;}
+
+.span-cls{color: rgb(241, 88, 33);}       
+.bdr{border-left: 3px solid rgb(221, 21, 21);}   
+.hedding-1 {margin-left: 10px;
+           font-size: 40px;}
+ .hadding-2{text-align: center;
+             font-size: 30px;
+             font-family: Arial, Helvetica, sans-serif;}          
+ .part{width: 50%;}
+  .part img{width: 90%;
+            float: right;
+            margin-top: -110px;}
+  .section-1{display: flex;
+            }
+           
+  .button{ text-decoration: none;
+           background-color: hsla(0, 56%, 53%, 0.863);
+           padding: 7px 30px;
+           border-radius: 5px;}  
+
+  .div-1{   margin-right: 4%;
+            width: 30%;
+            background-color: rgba(240, 204, 210, 0.89);
+            padding: 5px;
+            border-radius: 10px;
+           }
+ .div-1 h1 , p{ margin: 10px;} 
+ .div-2 h1 , p{ margin: 10px;}
+ .div-3 h1 , p{ margin: 10px;}         
+           
+ .div-2{    margin-right: 4%;
+            width: 30%;
+            background-color: rgba(173, 216, 192, 0.616);
+            padding: 5px;
+            border-radius: 10px;}
+            
+ .div-3{    margin-right: 4%;
+            width: 30%;
+            background-color: rgba(90, 150, 202, 0.87);
+            padding: 5px;
+            border-radius: 10px;}    
+ 
+ .div-1 img{width: 50%;}
+ .div-2 img{width: 50%;}
+ .div-3 img{width: 50%;}
+ .part-2{display: flex;           
+         margin-bottom: 5%;}     
+        
+ .codding-img{width: 40%;
+              } 
+ .codding-img img{width: 100%;} 
+ .codding-text{width: 50%;
+                 margin-left: 5%;}
+ .codding-text h1{font-size: 50px;} 
+ .project-text h1{font-size: 50px;}             
+ .part-3{display: flex;
+          margin-bottom: 5%;} 
+
+     
+     
+
+ .section-4 .project-png{width: 40%;}
+ .section-4 .project-text{width: 40%;}
+ .section-4 .project-png img{width: 100%;
+                            margin-left: 20px;}
+ .section-4  {display: flex;}
+ .section-5{margin-bottom: 20px;}
+ .commom-hed {text-align: center;
+    margin-top: 30px;
+    color: rgb(147, 77, 212);} 
+.card {width: 400px;
+       height: 400px;
+       box-shadow: 2px 2px 10px rgba(100, 200, 150, 0.616);
+        margin: auto;
+       
+     }
+ .card img{width: 100px;
+           height: 100px;
+           margin: 20px 100px;
+           border-radius: 50%;
+           border: 10px solid hsla(84, 78%, 53%, 0.918);
+          }    
+ .card p{text-align: center;}   
+ .footer{width: 900px;
+        height: 100px;
+       background-color: black;
+       margin: auto;}
+ .footer h1{color: white;
+            text-align: center;
+           font-family: Georgia, 'Times New Roman', Times, serif;} 
+ .footer p{text-align: center;
+           color: white;}                
